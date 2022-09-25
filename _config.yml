@@ -1,0 +1,18 @@
+
+theme: jekyll-theme-cayman
+title: Neel's GSoC 2022 Final Report Blogpost
+url: index.md
+description: This is my blog for all the work done in Google Summer of Code, 2022 under the organisation CERN HSF.
+plugins:
+  - jekyll-feed
+# Personal Info
+name: Neel Shah
+email: neelshah29042002@gmail.com
+# Social Links
+github_username: Neel-Shah-29
+linkedin_username: neel-shah-209997212
+# About Section
+about_title: About Me
+about_profile_image:
+github:
+  is_project_page: false
